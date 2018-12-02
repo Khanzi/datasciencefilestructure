@@ -1,0 +1,28 @@
+#!/bin/bash
+
+echo "Project Name:"
+read name
+
+mkdir -p $name
+
+cd $name
+
+#data
+mkdir -p data
+cd data
+mkdir -p temp
+mkdir -p input
+mkdir -p results
+cd ..
+
+#code
+mkdir -p code
+cd code
+mkdir -p scripts
+mkdir -p SQL
+mkdir -p notebooks
+cd ..
+
+# 
+
+echo "$name has been created"
