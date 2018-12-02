@@ -1,4 +1,4 @@
-# datasciencefilestructure
+# Data Science File Structure Script
 
 This bash script creates a simple file structure that is suitable for most data science projects.
 
