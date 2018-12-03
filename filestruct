@@ -21,6 +21,7 @@ cd code
 mkdir -p scripts
 mkdir -p SQL
 mkdir -p notebooks
+mkdir -p models
 cd ..
 
 # 
