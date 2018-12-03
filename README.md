@@ -8,6 +8,7 @@ Example/
 ├── code
 │   ├── notebooks
 │   ├── scripts
+│   ├── models
 │   └── SQL
 └── data
     ├── input
